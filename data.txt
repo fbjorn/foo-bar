@@ -1,7 +1,8 @@
-foo bar
+foo bar 123
 
 test
 
 another change
 
 FOO BAR
+123
