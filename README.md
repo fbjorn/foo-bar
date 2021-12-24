@@ -1,1 +1,3 @@
 # foo-template
+
+foo bar
